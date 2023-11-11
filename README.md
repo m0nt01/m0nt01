@@ -42,6 +42,18 @@
 
 ###
 
+<h4 align="left">O 400z é uma maravilha né?</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="" src="https://i.imgur.com/C5Ggpdl_d.webp?maxwidth=760&fidelity=grand"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/m0nt01/m0nt01/output/snake.svg" alt="Snake animation" />
