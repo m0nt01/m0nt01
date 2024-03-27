@@ -1,4 +1,4 @@
-<h1 align="left">Olá sou o Guilherme Henrique Monteiro :) !</h1>
+<h1 align="left">Olá sou o Guilherme !</h1>
 
 ###
 
