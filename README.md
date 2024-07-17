@@ -55,17 +55,17 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/m0nt01/count.svg?"  />
+</div>
+
+
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ed2ss7mbkhwawni2gditaq543a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ed2ss7mbkhwawni2gditaq543a&count=5" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/m0nt01/count.svg?"  />
 </div>
 
 ###
